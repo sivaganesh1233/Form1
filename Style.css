@@ -1,0 +1,318 @@
+body{
+    background-color: #669900;
+    height: 1190px;
+}
+#Entire{
+    background-color: #ffffff;
+    margin-bottom: 10px;
+    margin-right: auto;
+    margin-left: auto;
+    height: 1050px;
+    width: 550px;
+    letter-spacing: .02cm;
+    font-family: "Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+    text-align: left;
+    }
+#Img{
+    height: 80px;
+    width: 550px;
+    background-color: rgb(160, 224, 64);
+}
+.Empapp{
+    font-size: 140%;
+    color: black;
+    margin-left: 20px;
+    font-weight: inherit;
+
+    
+}
+.Info{
+    font-size: 12.3px;
+    color: #555;
+    line-height: 20%;
+    margin-left: 20px;
+    font-size: small;
+
+}   
+.line1{
+    width: 95%;
+    border-top: 0.5px dotted grey ;
+    line-height: 20%;
+    
+}
+.position{
+    margin-left: 20px;
+    letter-spacing: 0px;
+    color: #444444;
+    font-weight: bolder;
+    font-size: 12px;
+    font-family: "Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+    
+}
+.select{
+    margin-left: 20px;
+    padding-top: 1px;
+    padding-top: 10px;
+    
+}
+.Relocate{
+    padding-top: 20px;
+}
+.R1{
+    margin-left: 20px;
+    letter-spacing: 0px;
+    color: #444444;
+    font-weight: bolder;
+    font-size: 14px;
+    font-family: "Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+}
+.Radio{
+    margin-left: 20px;
+    padding-top: 10px;
+}
+.radio2{
+    margin-bottom: 10px;
+}
+.relocate{
+    margin-left: 20px;
+    color: #444444;
+    font-weight: bolder;
+    font-size: 12px;
+    font-family: "Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+}
+.opt{
+    margin-top: 30px;
+    padding-top: 20px;
+}
+.radio{
+    margin-top: 20px;
+    margin-left: 20px;
+    letter-spacing: .02cm;
+    font-size: 14px;
+}
+.Start{
+    padding-top: 20px;
+    color: #444444;
+    font-weight: bolder;
+    font-size: 12px;
+    font-family: "Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+    
+}
+.number{
+    height: 20px;
+    width: 17px;    
+}
+.inputfield{
+      padding-top: 10px;
+}
+.r2{
+    padding-bottom: 10px;
+}
+.MMYYDD{
+    margin-right: 5px;
+}
+.r1{
+    letter-spacing: .05cm;
+}
+.r2{
+    letter-spacing: .05cm;
+}
+.Portfolio{
+    padding-top: 20px;
+}
+.Inputfieldportfolio{
+    padding-top: 7px;
+}
+.Portfolio{
+    padding-top: 20px;
+    color: #444444;
+    font-weight: bolder;
+    font-size: 12px;
+    font-family: "Lucida Grande", Tahoma, Arial, Verdana, sans-serif;   
+}
+.Inputfieldportfolio{
+    letter-spacing: .05cm;
+} 
+.file{
+ 
+    margin-left: 20px;
+    color: #444444;
+    font-weight: bolder;
+    font-size: 12px;
+    font-family: "Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+    padding-top: 20px;
+}
+.file1{
+    margin-left: 20px;
+    padding-top: 08px;
+}
+.word{
+    margin-left: 10px;
+}
+.Salary{
+    padding-top: 20px;
+    color: #444444;
+    font-weight: bolder;
+    font-size: 12px;
+    font-family: "Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+    margin-left: 20px;   
+}
+.Symbol{
+    font-size:100%;
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.Salary1{
+    padding-top: 7px;
+}
+.Salary2{
+    padding-top: 2px;
+    font-size: 90%;
+    font-weight: lighter;
+    
+    
+}
+.line2{
+    width: 95%;
+    border-top: 0.5px dotted grey ;
+    line-height: 20%;
+    margin-top: 5px;
+} 
+.Line3{
+    padding-top: 10px;
+}
+.contact{
+    font-size: 95%;
+    margin-left: 20px;
+    font-weight: lighter;
+    letter-spacing: .03cm;
+}
+.N{
+    margin-left: 20px;
+    padding-top: 5px;
+    color: #444444;
+    font-weight: bolder;
+    font-size: 12px;
+    font-family: "Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+    
+}
+.contact1{
+    padding-top: 5px;
+    margin-left: 20px;
+}
+.Email{
+    padding-top: 20px;
+    color: #444444;
+    font-weight: bolder;
+    font-size: 12px;
+    font-family: "Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+    margin-left: 20px;
+
+}
+.Email2{
+    margin-left: 20px;
+    padding-top: 7px;
+}
+.phone{
+    margin-left: 20px;
+    padding-top: 17px;
+    color: #444444;
+    font-weight: bolder;
+    font-size: 12px;
+    font-family: "Lucida Grande", Tahoma, Arial, Verdana, sans-serif;   
+}
+.phone1{
+    margin-left: 20px;
+    margin-top: 9px;
+}
+.phone2{
+    margin-left: 20px;
+}
+.button{
+    margin-left: 20px;
+    padding-top: 20px;
+}
+.last{
+    margin-left: 158px;
+    padding-top: 02px;
+    font-size: 13px;
+    color: #606060;
+    font-family: "Lucida Grande", Tahoma, Arial, Verdana, sans-serif; 
+
+}
+.Powered1{
+    margin-left: 230px;
+    padding-top :0px;
+    padding-bottom: 0px;
+    
+    font-size: 09px;
+    color: #606060;
+    font-family: "Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+}
+.Image2{
+    margin-left: 230px;
+    padding-top: px;
+}
+.com{
+    padding-bottom: 80px;
+    margin-bottom: 30px;
+}
+.Last{
+    
+}
+.Powered{
+    margin-left: 240px;
+    padding-top: 35px;
+    font-size: 12px;
+    color: #606060;
+    font-family: "Lucida Grande", Tahoma, Arial, Verdana, sans-serif;
+    }
+.img1{
+    margin-left: 235px;
+    margin-bottom: -12px;
+}
+.Powered1{
+    
+}   
+.hover1:focus-within{
+            width: 350px;
+            background-color: yellow;
+}
+
+.hover3:focus-within{
+    width:350px;
+    background-color: yellow;
+
+}
+.hover4:focus-within{
+    width:350px;
+    background-color: yellow;
+
+}
+.hover4{
+    margin-left: 20px;
+}
+.hover5:focus-within{
+    width: 350px;
+    background-color: yellow;
+}
+/* .hover2:focus-within{
+    width: 350px;
+    background-color: yellow;
+} */
+.hover6:focus-within{
+    width: 350px;
+    background-color: yellow;
+}
+.hover7:focus-within{
+    width: 350px;
+    background-color: yellow;
+}
+.hover8:focus-within{
+    width: 350px;
+    background-color: yellow;
+}
+.hover9:focus-within{
+    width: 350px;
+    background-color: yellow;
+}
